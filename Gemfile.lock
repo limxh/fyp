@@ -282,7 +282,7 @@ PLATFORMS
 
 DEPENDENCIES
   emoji_for_jekyll
-  github-pages (= 226)
+  github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
   jekyll-pdf-embed
